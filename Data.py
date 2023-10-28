@@ -59,9 +59,7 @@ class Data:
 
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @legend_coder
+ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @Prime_Rolex
 
-ᴜᴘᴅᴀᴛᴇ   : @Mr_sukkun
-
-ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](https://github.com/Noob-mukesh/ForceSubsribeBot)
+ᴜᴘᴅᴀᴛᴇ   : @Privates_RoBot
     """
