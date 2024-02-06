@@ -20,4 +20,4 @@ async def users_sql(_, msg: Message):
 async def _stats(_, msg: Message):
     users = await num_users()
     chats = await num_chats()
-    await msg.reply(f"ᴛᴏᴛᴀʟ ᴜsᴇʀs : {users} \n\nᴛᴏᴛᴀʟ ᴄʜᴀᴛs : {chats} \n\nʙᴏᴛ ᴜᴘᴅᴀᴛᴇ : @Prime_Rolex", quote=True)
+    await msg.reply(f"ᴛᴏᴛᴀʟ ᴜsᴇʀs : {users} \n\nᴛᴏᴛᴀʟ ᴄʜᴀᴛs : {chats} \n\nʙᴏᴛ ᴜᴘᴅᴀᴛᴇ : @ProCoderZBots", quote=True)
