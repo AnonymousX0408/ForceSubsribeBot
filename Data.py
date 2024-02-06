@@ -59,7 +59,7 @@ class Data:
 
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @Prime_Rolex
+ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @Mr_RoleXG
 
-ᴜᴘᴅᴀᴛᴇ   : @Privates_RoBot
+ᴜᴘᴅᴀᴛᴇ   : @ProCoderZBots
     """
